@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "24/7 afk bot",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "LIPZ_SMP.aternos.me",

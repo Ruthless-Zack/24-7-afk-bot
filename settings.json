@@ -1,21 +1,21 @@
 {
-  "name": "AFK Bot",
+  "name": "Zorb_Player456",
   "bot-account": {
-    "username": "SoloCloudHosting",
-    "password": "",
-    "type": "offline"
+    "username": "ZorbPlayer4576",
+    "password": "zayan",
+    "type": "online"
   },
   "server": {
-    "ip": "LIPZ_SMP.aternos.me",
-    "port": 17926,
+    "ip": "Gamertee.net",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 100000,
-    "y": 100,
-    "z": 100000
+    "x": 0,
+    "y": 0,
+    "z": 0
   },
   "utils": {
     "auto-auth": {

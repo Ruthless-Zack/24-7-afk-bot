@@ -1,13 +1,13 @@
 {
-  "name": "Zorb_Player456",
+  "name": "24/7 afk bot",
   "bot-account": {
-    "username": "ZorbPlayer4576",
-    "password": "zayan",
+    "username": "24/7 afk bot",
+    "password": "",
     "type": "online"
   },
   "server": {
-    "ip": "Gamertee.net",
-    "port": 25565,
+    "ip": "LIPZ_SMP.aternos.me",
+    "port": 17962,
     "version": "1.20.1",
     "try-creative": false
   },
